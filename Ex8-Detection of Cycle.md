@@ -20,8 +20,8 @@ If there is no cycle, the program should return null without modifying the linke
  /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
-Developed by: SABARINATH.R
-RegisterNumber: 212223100048
+Developed by: JESUBALAN A
+RegisterNumber: 212223240060
 */
 class DetectCycle {
 
